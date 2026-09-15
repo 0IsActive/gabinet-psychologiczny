@@ -26,8 +26,8 @@ export const PERSON = {
 export const CONTACT = {
   phone: "+48 518 474 719",
   phoneHref: "tel:+48518474719",
-  email: "bozena.siminiak@gamil.com",
-  emailHref: "mailto:bozena.siminiak@gamil.com",
+  email: "bozena.siminiak@gmail.com",
+  emailHref: "mailto:bozena.siminiak@gmail.com",
 };
 
 export const OBSZARY = [
