@@ -29,8 +29,8 @@ const Footer = () => {
         <div>
           <p className="eyebrow mb-4">Kontakt</p>
           <ul className="space-y-2 text-sm text-foreground/80">
-            <li><a href="tel:+48000000000" className="hover:text-primary transition-colors">+48 000 000 000</a></li>
-            <li><a href="mailto:kontakt@example.com" className="hover:text-primary transition-colors">kontakt@example.com</a></li>
+            <li><a href="tel:+48000000000" className="hover:text-primary transition-colors">+48 518 474 719</a></li>
+            <li><a href="mailto:kontakt@example.com" className="hover:text-primary transition-colors">psychologia.blizejsiebie@gmail.com</a></li>
           </ul>
         </div>
       </div>
