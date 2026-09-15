@@ -74,7 +74,7 @@ const OMnie = () => {
               <Reveal delay={200}>
                 <div className="mt-8 flex items-center gap-3">
                   <img src={ASSETS.leafMark} alt="" aria-hidden className="h-8 w-8 opacity-70" />
-                  <span className="text-xs uppercase tracking-[0.25em] text-primary">stała superwizja</span>
+                  <span className="text-xs uppercase tracking-[0.25em] text-primary">   </span>
                 </div>
               </Reveal>
             </div>
