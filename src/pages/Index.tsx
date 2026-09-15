@@ -311,7 +311,7 @@ const Index = () => {
                     <span className="flex h-10 w-10 items-center justify-center rounded-full bg-primary/10 text-primary"><MapPin className="h-4 w-4" /></span>
                     <span className="flex-1">
                       <span className="block text-[10px] uppercase tracking-[0.25em] text-muted-foreground">Gabinety</span>
-                      <span className="mt-1 block font-display text-lg font-light text-foreground md:text-xl">Poznań · Online</span>
+                      <span className="mt-1 block font-display text-lg font-light text-foreground md:text-xl">Stacjonarnie Poznań  ·  Online</span>
                     </span>
                     <ArrowRight className="h-4 w-4 text-primary opacity-0 transition-all group-hover:translate-x-1 group-hover:opacity-100" />
                   </Link>
