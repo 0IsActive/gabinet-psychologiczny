@@ -12,7 +12,7 @@ const Footer = () => {
             <span className="font-display text-base font-medium">Bożena Siminiak</span>
           </div>
           <p className="mt-4 max-w-xs text-sm text-muted-foreground">
-            Gabinet psychologiczny. Spokój, dyskrecja, profesjonalne wsparcie.
+            Gabinet psychologiczny.
           </p>
         </div>
 
